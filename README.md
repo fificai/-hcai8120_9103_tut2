@@ -1,7 +1,7 @@
 # -hcai8120_9103_tut2
 
 This is a readme file
-hihihi
+This is a readme file
 # Header 1
 ## Header 2
 ### Header 3
