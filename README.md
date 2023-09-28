@@ -1,9 +1,9 @@
 # -hcai8120_9103_tut2
 
-This is a readme file
-This is a readme file
-# Header 1
-## Header 2
+# Part 1: Imaging Technique Inspiration
+the inspiration i 
+jjhh 
+## Part 2: Coding Technique Exploration
 ### Header 3
 #### Header 4
 ##### Header 5
