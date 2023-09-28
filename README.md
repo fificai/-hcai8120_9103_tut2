@@ -3,6 +3,7 @@
 # Part 1: Imaging Technique Inspiration
 the inspiration i 
 jjhh 
+![An image of movie](picture1.jpeg)
 ## Part 2: Coding Technique Exploration
 ### Header 3
 #### Header 4
